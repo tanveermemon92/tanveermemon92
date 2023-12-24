@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanveermemon92" alt="tanveermemon92" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tanveermemon9" target="blank"><img src="https://img.shields.io/twitter/follow/tanveermemon9?logo=twitter&style=for-the-badge" alt="tanveermemon9" /></a> </p>
-
 - 🔭 I’m currently working on **Machine Learning for Cognitive Impairment**
 
 - 🌱 I’m currently learning **Javascript, Swift**
@@ -21,7 +19,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tanveermemon9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanveermemon9" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tanveermemon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanveermemon" height="30" width="40" /></a>
 </p>
 
