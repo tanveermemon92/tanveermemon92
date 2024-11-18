@@ -1,5 +1,5 @@
 <h1 align="center">Tanveer Ahmed</h1>
-<h3 align="center">Machine Learning Engineer</h3>
+<h3 align="center">Network Infrastructure Researcher</h3>
 <img align="center" alt="Coding" width="115" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanveermemon92&label=Profile%20views&color=0e75b6&style=flat" alt="tanveermemon92" /> </p>
